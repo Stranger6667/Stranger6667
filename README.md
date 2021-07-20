@@ -1,6 +1,6 @@
 ### Hi, I am Dmitry 👋
 
-I am a software development engineer, working with **Python** :snake: and **Rust** :crab: for over 10 years.
+I am a software development engineer, working with **Python** :snake: and **Rust** :crab: for quite some time.
 
 - 🌐 Currently based in Prague, Czech Republic 🇨🇿
 - 💡 Interested in software testing & building reliable systems
