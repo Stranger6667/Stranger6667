@@ -1,6 +1,6 @@
 ### Hi, I am Dmitry 👋
 
-I build [Schemathesis.io](https://schemathesis.io/) - a platform for effortless API testing.
+I build [Schemathesis.io](https://schemathesis.io/) - a platform for spec-based API testing.
 
 - 🌐 Based in Prague, Czech Republic 🇨🇿
 - 💡 Interested in software testing & building reliable systems
