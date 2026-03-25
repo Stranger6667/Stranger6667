@@ -1,6 +1,6 @@
 ### Hi, I am Dmitry 👋
 
-Software Engineer with more than 14 years of experience specializing in Rust and Python with a focus on writing parsers and fuzzing.
+Software Engineer with more than 15 years of experience specializing in Rust and Python with a focus on writing interpreters and fuzzers.
 
 - 🌐 Based in Prague, Czech Republic 🇨🇿
 - 💡 Interested in software testing & building reliable systems
